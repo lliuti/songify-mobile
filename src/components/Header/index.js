@@ -1,14 +1,11 @@
 import React from 'react';
 
 import { 
-  Container,
-  Title 
+  Container
 } from './styles';
 
 export default function Header() {
   return (
-    <Container>
-      <Title>Liuti</Title>
-    </Container>
+    <Container></Container>
   );
 }
